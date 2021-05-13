@@ -183,3 +183,7 @@ h2{
 .gmail:hover{
   color: #feae96;
 }
+
+.links:link, .links:visited {
+  color: black;
+}
